@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<div align="center">
+  <img height="150" src="pic.jpg"  />
+</div>
 <h3 align="center">A passionate web developer from pakistan</h3>
 
 - 🔭 I’m currently working on **protfolio and ecommerce website**
