@@ -2,7 +2,7 @@
 <div align="center">
   <img height="150" src="pic.jpg"  />
 </div>
-<h4 align="center">A passionate self-taught web developer from pakistan</h4>
+<h3 align="center">A passionate self-taught web developer from pakistan</h3>
 
 - 🔭 I’m currently working on **protfolio and ecommerce website**
 
