@@ -2,8 +2,8 @@
 <div align="center">
   <img height="150" src="pic.jpg"  />
 </div>
-<h3 align="center">A passionate self-taught web developer from pakistan</h3>
-
+<h4 align="center">A passionate self-taught web developer from pakistan</h4>
+<br>
 - 🔭 I’m currently working on **protfolio and ecommerce website**
 
 - 🌱 I’m currently learning **Next.js and php laravel**
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **muhammmadayan980@gmail.com**
 
-- ⚡ Fun fact **I think i'm serious and silent guy**
+- ⚡ Fun fact **I think i'm a serious and silent men**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
